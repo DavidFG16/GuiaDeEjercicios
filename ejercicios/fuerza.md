@@ -25,3 +25,12 @@ El entrenamiento de fuerza (o entrenamiento de resistencia) utiliza la resistenc
 4. Busca el equilibrio. ...
 5. Incluye el fortalecimiento muscular en tu rutina de ejercicios. ...
 6. Descansa.
+
+## Consejos
+1. Entrena los glúteos
+2.  Utiliza distintos instrumentos para el agarre.
+3. Haz resbalar la barra por la tibia en el peso muerto.
+4. Prioriza los ejercicios básicos.
+5. Haz mas series pesadas.
+6. Mantén la respiración.
+7. Lleva anotadas tus marcas
