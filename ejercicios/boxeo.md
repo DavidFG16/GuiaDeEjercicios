@@ -21,3 +21,11 @@ El boxeo es una forma de combate cuerpo a cuerpo sin armas en el que un deportis
 5. No se admiten golpes bajos .
 6. No se deben causar tropiezos..
 7. No se deben dar cabezazos intencionalmente.
+
+## Consejos
+- Use su cabeza.
+- Mantenerlo en constante movilidad.
+- Utilizar el jab y el directo de izquierda.
+- Con desplazamiento hacia la izquierda en círculo lance el directo de izquierda.
+- Siempre en movimiento, no deje que el pegador lance cómodo.
+- Trate de que éste mantenga la iniciativa.
